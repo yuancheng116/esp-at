@@ -1,5 +1,5 @@
 # The Optimized Configuration
-# Do NOT edit unless you know exactly what you are doing
+# Do NOT edit unless you know exactly what you are doing v01
 
 CONFIG_IDF_TARGET_ESP32C2=y
 
