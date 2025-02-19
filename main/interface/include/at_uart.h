@@ -31,7 +31,7 @@
  *******************************************************/
 #define AT_UART_BAUD_RATE_MAX                       SOC_UART_BITRATE_MAX    /**< maximum uart baud rate */
 #define AT_UART_BAUD_RATE_MIN                       80                      /**< minimum uart baud rate */
-#define AT_UART_BAUD_RATE_DEF                       115200                  /**< default uart baud rate */
+#define AT_UART_BAUD_RATE_DEF                       9600                  /**< default uart baud rate */
 #define AT_UART_PATTERN_TIMEOUT_MS                  20                      /**< uart pattern timeout */
 
 #define AT_UART_PARITY_NONE                         UART_PARITY_DISABLE     /**< uart parity disable */
